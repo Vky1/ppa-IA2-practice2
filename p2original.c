@@ -29,3 +29,4 @@ int main()
   d=check_scalene(a,b,c);
   output(a,b,c,d);
   return 0;
+  }
