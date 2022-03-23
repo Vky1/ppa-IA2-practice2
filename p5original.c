@@ -37,3 +37,5 @@ int res = gcd(num1, num2);
 output(num1, num2, res);
 return 0;
 }
+
+
